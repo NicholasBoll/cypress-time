@@ -1,0 +1,29 @@
+{
+  "name": "cypress-time",
+  "version": "1.0.0",
+  "description": "Record timings in Cypress",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasBoll/cypress-time.git"
+  },
+  "keywords": [
+    "cypress",
+    "time",
+    "timings",
+    "performance"
+  ],
+  "author": "Nicholas Boll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicholasBoll/cypress-time/issues"
+  },
+  "homepage": "https://github.com/NicholasBoll/cypress-time#readme",
+  "devDependencies": {
+    "cypress": "^4.0.1"
+  }
+}

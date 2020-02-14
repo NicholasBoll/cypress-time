@@ -56,6 +56,6 @@ This plugin comes with its own type definitions. If you're using Typescript alre
 
 ```json
 {
-  "types" ["cypress", "cypress-time"]
+  "types": ["cypress", "cypress-time"]
 }
 ```

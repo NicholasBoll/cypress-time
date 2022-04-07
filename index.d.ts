@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-namespace Cypress {
+declare namespace Cypress {
   interface Chainable<Subject = any> {
     /**
      * Starts a time span using the User Timings API. A `cy.time`
